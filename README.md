@@ -3,7 +3,9 @@
 
 - 初始畫面
 <div align="left">
+<a href="https://youtu.be/Rk1MYMPDx3s" target="_blank">
 <img src=https://github.com/ricks774/EP1_homework/blob/master/EP1_start.PNG?raw=true width=30%/>
+</a>
 </div><br>
 
 - 輸入`正確號碼`時
@@ -20,3 +22,5 @@
 <div align="left">
 <img src=https://github.com/ricks774/EP1_homework/blob/master/EP1_start.PNG?raw=true width=30%/>
 </div><br>
+
+`第一張圖片點進去有酷酷的東西`
